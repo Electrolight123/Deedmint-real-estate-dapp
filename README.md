@@ -157,7 +157,7 @@ The suite covers: listing, deposits, inspection, approvals, finalization (owners
 
 ## 📹 Demo
 ▶️ [Watch the walkthrough (MP4)](./src/assets/deedmint-dapp-walkthrough.mp4)
-
+https://drive.google.com/file/d/1yv64OoRFkmwII0JMlvDlx8aTSaW44xVM/view?usp=sharing
 ---
 
 ## 🧰 Tech
