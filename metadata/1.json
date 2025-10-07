@@ -1,0 +1,33 @@
+{
+    "name": "Single Family Homes in Delhi",
+    "address": "Golf Links, New Delhi, Delhi, India",
+    "description": "East-facing, park-view corner bungalow in Golf Links—three floors with lawn & parking—prime LBZ address near Khan Market and Lodhi Gardens.",
+    "image": "https://ipfs.io/ipfs/QmQEVu1qKtTQ71uvGsDueLKKR2uDFqSTYFXRh9oKsEDkqL/1.png", 
+    "id": "1",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 20
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Bungalow"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 6
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 6
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 480
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2013
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Bungalow in Punjabi Bagh (W)",
+    "address": "Punjabi Bagh West, New Delhi, Delhi, India",
+    "description": "Prestigious Punjabi Bagh West bungalow on a peaceful, perfectly rectangular lane with excellent access—minutes from Punjabi Bagh Club and close to top schools, parks, and cafés.",
+    "image": "https://ipfs.io/ipfs/QmQEVu1qKtTQ71uvGsDueLKKR2uDFqSTYFXRh9oKsEDkqL/3.png",
+    "id": "3",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 10
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Bungalow"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 12
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 12
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 910
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2020
+        }
+    ]
+}
