@@ -35,7 +35,7 @@ NFT minting pipeline:
 
 ### 1) Clone & install
 ```bash
-git clone https://github.com/Electrolight123/deedmint-real-estate-dapp.git
+git clone https://github.com/Electrolight123/Deedmint-real-estate-dapp.git
 cd deedmint-real-estate-dapp
 npm install
 ```
@@ -77,7 +77,7 @@ In MetaMask, add/switch to:
 ## 📂 Project Structure
 
 ```
-Cadastre/
+Deedmint-real-estate-dapp/
 ├─ contracts/
 │  ├─ Escrow.sol
 │  └─ RealEstate.sol
@@ -157,7 +157,7 @@ The suite covers: listing, deposits, inspection, approvals, finalization (owners
 
 ## 📹 Demo
 
-<video src="./docs/assets/videos/deedmint-real-estate-dapp-demo-2025-10-07.mp4" controls width="800">
+<video src="./src/assets/deedmint-dapp-walkthrough.mp4" controls width="800">
   Your browser does not support the video tag.
 </video>
 
