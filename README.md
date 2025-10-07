@@ -35,7 +35,7 @@ NFT minting pipeline:
 
 ### 1) Clone & install
 ```bash
-git clone https://github.com/<your-username>/deedmint-real-estate-dapp.git
+git clone https://github.com/Electrolight123/deedmint-real-estate-dapp.git
 cd deedmint-real-estate-dapp
 npm install
 ```
